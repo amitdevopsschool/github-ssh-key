@@ -1,0 +1,11 @@
+
+								How to Generate SSH Key ON Github ?
+
+
+					step 1:-  Go to C drive and open terminal and run below command
+
+					step 2:-  git config --global user.name "amitdevopsschool"
+
+					step 3:-  git config --global user.email "amitcotocus72@gmail.com"
+
+					step 4 :- ssh-keygen
